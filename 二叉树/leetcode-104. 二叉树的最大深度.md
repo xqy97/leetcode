@@ -29,4 +29,4 @@ var maxDepth = function(root) {
 
 ### 复杂度
 * 时间复杂度 O(n)
-* 空间复杂度 O(height) height为二叉树高度
+* 空间复杂度 O(height) height为二叉树高度, 最差O(N), 最优O(logN)
